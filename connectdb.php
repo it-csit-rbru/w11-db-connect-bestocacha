@@ -1,8 +1,8 @@
 <?php
     $host = "localhost";
-    $db = "projectdb";
-    $usr = "root";
-    $pwd = "root";
+    $db = "s6014421010";
+    $usr = "s6014421010";
+    $pwd = "webit60";
     $port = "3306";
     $conn = mysqli_connect($host,$usr,$pwd,$db,$port);
     if (!$conn) {
